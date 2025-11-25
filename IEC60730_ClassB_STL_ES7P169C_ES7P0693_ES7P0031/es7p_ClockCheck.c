@@ -59,7 +59,7 @@ unsigned char LRCClockCheckSart(){
 			T11VIF = 0;
 			T11cnt++;
 			if(T11cnt >= 100){
-				if((T8Ncnt < 80) || (T8Ncnt > 120)){//ÔÊÐíÎó²î20%
+				if((T8Ncnt < 30) || (T8Ncnt > 170)){//ÔÊÐíÎó²î70%
 					return FAILED;
 				}
 				else{
