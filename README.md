@@ -8,7 +8,7 @@ The IEC60730 ClassB Self-Test Library for the ES7 Series Products.
 
 
 
-V1.1 2025.9.8
+V1.01 2025.9.8
 
 *********************************
 (Compiler version: iDesigner V4.2.3.199 HRCC V1.2.0.140 (Optimization level O1))
@@ -17,7 +17,7 @@ V1.1 2025.9.8
 
 
 
-V1.2 2025.11.25
+V1.02 2025.11.25
 
 *********************************
 (Compiler version: iDesigner V4.2.3.199 HRCC V1.2.0.140 (Optimization level O1))
