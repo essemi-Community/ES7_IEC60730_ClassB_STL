@@ -17,9 +17,23 @@ V1.01 2025.9.8
 
 
 
+
+
 V1.02 2025.11.25
 
 *********************************
 (Compiler version: iDesigner V4.2.3.199 HRCC V1.2.0.140 (Optimization level O1))
 1. Add LICENSE file and remove LICENSE.md file.
 2. The allowable error range of the clock self-check has been expanded to 70%, meeting the requirements for testing in all temperature environments.
+
+
+
+
+
+V1.03 2025.11.26
+
+*********************************
+
+(Compiler version: iDesigner V4.2.3.199 HRCC V1.2.0.140 (Optimization level O1))
+
+1. Correct version number.
